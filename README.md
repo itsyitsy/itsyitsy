@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sebastian Büttner (@itsyitsy)
 - 👀 I’m a software dev interested in microservices and serverless architectures, preferably in go or python
-- 🌱 I’m currently learning node.js and typescript
 - 🛠️ I’m available as consultant for development projects via my company [Nola Ventures](https://nola-ventures.com)
-- 📫 You can reach me under sebastian@nola-sail.com
+- 📫 You can reach me under sebastian@nola-ventures.com
 
 <!---
 itsyitsy/itsyitsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
